@@ -1,0 +1,39 @@
+a {
+    color: rgb(163, 163, 163);
+    text-decoration: none;
+}
+h1 {
+    text-decoration: double;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h2 {
+    text-decoration: solid;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: white;
+}
+div {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    background-color: rgb(50, 50, 50);
+}
+img {
+    height: 300px;
+}
+body {
+    background-color: rgb(40, 40, 40);
+}
+li {
+    color: white;
+}
+footer {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
